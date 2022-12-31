@@ -1,1 +1,1 @@
-# Attempting to recreate some of James Turrells art in code
+# Attempting to capture the magic of James Turrell's art in code
